@@ -1,6 +1,11 @@
-# Markdown -> RAG JSONL
+# Markdown to RAG test
 
 ## Install
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+~~~
 
 ```bash
 pip install sudachipy sudachidict_core
