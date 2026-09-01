@@ -1,3 +1,5 @@
 qdrant/storage
 .venv
-
+**/scraping/*
+**/tmp/*
+for_html/*.jsonl
