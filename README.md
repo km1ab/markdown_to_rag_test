@@ -2,18 +2,18 @@
 
 ## Install
 
-```bash
+```sh
 python3 -m venv .venv
 source .venv/bin/activate
-~~~
+```
 
-```bash
+```sh
 pip install sudachipy sudachidict_core
 ```
 
 ## Run
 
-```bash
+```sh
 python markdown_to_rag_jsonl.py ./markdown ./rag_documents.jsonl
 ```
 
